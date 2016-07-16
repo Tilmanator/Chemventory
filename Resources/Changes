@@ -1,0 +1,14 @@
+CHANGES:
+Forced rewrites after removing from the order queue
+Changing fonts
+size of tabs
+help panel
+fit strings to most fields so they dont overflow
+commented makeOrderTable (wasn't used)
+set minimum size instad of making it a constant size
+Changed layout of database panel so size is ot set in layout butb suggested before, also turned on line wrap
+removed fitstring
+colours
+bolded display category indicator
+fonts in display, size in table
+added sorting by header (sort of)
